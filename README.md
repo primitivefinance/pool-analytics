@@ -23,8 +23,8 @@ TBD
 
 
 # Repository Citation
+If you use this software, please cite it as below.
 ```
-message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Kim"
   given-names: "Evan"
