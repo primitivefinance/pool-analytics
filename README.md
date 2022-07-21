@@ -15,8 +15,19 @@ TBD
 * Scikit-Learn
 
 # Roadmap
-- [ ] Proof of concept PnL notebook
+- [x] Proof of concept PnL notebook
 - [ ] Abstract Data Query Script from notebook into seperate folder
 - [ ] Refactor current PnL notebook
-- [ ] Add notebook for Bayesian modeling
+- [x] Add notebook for Bayesian modeling
 - [ ] Add notebook for TDA (Topological Data Analysis)
+
+
+```
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "Evan"
+title: "pool-analytics"
+version: 1.0.0
+date-released: 2022-07-19
+url: "https://github.com/primitivefinance/pool-analytics"```
