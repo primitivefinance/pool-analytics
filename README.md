@@ -7,12 +7,15 @@
 # Directory Organization
 TBD
 
-# Dependencies
+# Base Dependencies for the data script
 * Pandas
 * Numpy
 * Matplotlib
 * Seaborn
+
+# Libraries used for Statistical Analysis
 * Scikit-Learn
+* cmdstanpy
 
 # Roadmap
 - [x] Proof of concept PnL notebook
