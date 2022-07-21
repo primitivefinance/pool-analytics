@@ -16,6 +16,7 @@ TBD
 ## Statistical Analysis
 * Scikit-Learn
 * cmdstanpy
+* arviz
 
 
 # Roadmap
