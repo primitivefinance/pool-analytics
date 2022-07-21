@@ -22,6 +22,7 @@ TBD
 - [ ] Add notebook for TDA (Topological Data Analysis)
 
 
+# Repository Citation
 ```
 message: "If you use this software, please cite it as below."
 authors:
