@@ -1,4 +1,4 @@
-# pool-analytics nblahblah
+# pool-analytics
 
 
 # Introduction
