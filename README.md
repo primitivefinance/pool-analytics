@@ -23,7 +23,7 @@ TBD
   - [ ]  theoretical LPT payoff value
 
 
-#How to contribute
+# How to contribute
 We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow.
 
 Submitting a patch
