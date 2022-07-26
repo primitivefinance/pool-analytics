@@ -2,7 +2,7 @@
 
 
 # Introduction
-`pool-analytics` stores aims to make RMM-01 pool data easily accessible for advanced data analysis. This repo will include data processing scripts and example notebooks. `pool-analytics` is maintained by [0xEvan](https://twitter.com/evandekim). Please reach out if you want to contribute, ask for feature requests, or any general feedback.
+`pool-analytics` stores aims to make RMM-01 pool data easily accessible for advanced data analytics and modeling. This repo will include data processing scripts and example notebooks. `pool-analytics` is maintained by [0xEvan](https://twitter.com/evandekim). Please reach out if you want to contribute, ask for feature requests, or any general feedback.
 
 # Directory Organization
 TBD
@@ -11,19 +11,17 @@ TBD
 ## data script
 * Pandas
 * Numpy
-* Matplotlib
-* Seaborn
-## Statistical Analysis
-* Scikit-Learn
-* cmdstanpy
-* arviz
 
 
 # Roadmap
 - [ ] Add model notebooks
-- [ ] Abstract Data Query Script from notebook into seperate folder
-- [ ] Refactor current PnL notebook
-- [x] Add more 
+- [ ] Abstract Data Query Script from notebook into seperate directory
+- [ ] Refactor PnL notebook
+- [ ] Add more pool features:
+  - [ ]  multi-pool Spot Price
+  - [ ]  multi-pool PnL
+  - [ ]  theoretical LPT payoff value
+
 
 #How to contribute
 We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow.
